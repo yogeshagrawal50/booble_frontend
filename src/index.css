@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.kep-login-facebook {
+  background-color: white;
+  color:black;
+  margin: 5px;
+}
